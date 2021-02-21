@@ -1,0 +1,17 @@
+.character #title{
+  position: relative;
+  top: 830px;
+  left: 435px;
+  font-size: 18px;
+  font-family: 'SpecialElite-Regular';
+}
+
+.character #diary{
+  position: relative;
+  top: 850px;
+  left: 50%;
+  margin-left: -482px;
+  width: 964px;
+  height: auto;
+  
+}

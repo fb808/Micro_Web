@@ -4,7 +4,7 @@
   font-family: 'Noto Serif KR', serif;
 }
 
-.story #story1{
+.story #title1{
   position: absolute;
   margin-top: 240px;
   margin-left: 335px;
@@ -13,7 +13,7 @@
   font-family: 'SpecialElite-Regular';
 }
 
-.story #story2{
+.story #subtitle1{
   position: absolute;
   margin-top: 248px;
   margin-left: 350px;
@@ -26,38 +26,38 @@
   position: absolute;
 }
 
-.story #story3{
+.story #story1{
   text-align: right;
   margin-top: 315px;
   margin-left: 335px;
 }
 
-.story #story4{
+.story #story2{
   text-align: right;
   margin-top: 20px;
   margin-left: 335px;
 }
 
-.story #story5{
+.story #story3{
   margin-top: 525px;
   margin-left: 860px;
   font-size: 16px;
   font-family: 'Nanum HarABeoJiEuiNaNum';
 }
 
-.story #story6{
+.story #story4{
   position: absolute;
   margin-top: 50px;
   margin-left: 680px;
 }
 
-.story #story7{
+.story #story5{
   position: absolute;
   margin-top: 120px;
   margin-left: 730px;
 }
 
-.story #story8{
+.story #story6{
   position: absolute;
   margin-top: 265px;
   margin-left: 485px;
@@ -65,32 +65,32 @@
   font-family: 'Nanum HarABeoJiEuiNaNum';
 }
 
-.story #story9{
+.story #story7{
   position: absolute;
   margin-top: 325px;
   margin-left: 310px;
 }
 
-.story #story10{
+.story #story8{
   position: absolute;
   text-align: right;
   margin-top: 380px;
   margin-left: 375px;
 }
 
-.story #story11{
+.story #story9{
   position: absolute;
   margin-top: 470px;
   margin-left: 430px;
 }
 
-.story #story12{
+.story #story10{
   position: absolute;
   margin-top: 525px;
   margin-left: 420px;
 }
 
-.story #story13{
+.story #title2{
   position: absolute;
   margin-top: 700px;
   margin-left: 970px;
@@ -98,7 +98,7 @@
   font-family: 'SpecialElite-Regular';
 }
 
-.story #story14{
+.story #subtitle2{
   position: absolute;
   margin-top: 722px;
   margin-left: 968px;
