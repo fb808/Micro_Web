@@ -1,0 +1,82 @@
+/* 웹폰트 선언 구간 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
+
+@font-face {
+  font-family: 'SpecialElite-Regular';
+  src: url('../font/SpecialElite-Regular/SpecialElite-Regular.ttf') format('truetype'),
+       url('../font/SpecialElite-Regular/SpecialElite-Regular.woff') format('woff'),
+       url('../font/SpecialElite-Regular/SpecialElite-Regular.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'FrederickatheGreat-Regular';
+  src: url('../font/FrederickatheGreat-Regular/FrederickatheGreat-Regular.woff2') format('woff2'),
+       url('../font/FrederickatheGreat-Regular/FrederickatheGreat-Regular.woff') format('woff'),
+       url('../font/FrederickatheGreat-Regular/FrederickatheGreat-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'Nanum HarABeoJiEuiNaNum';
+  src: url('../font/NanumHarABeoJiEuiNaNum/NanumHarABeoJiEuiNaNum.woff2') format('woff2'),
+       url('../font/NanumHarABeoJiEuiNaNum/NanumHarABeoJiEuiNaNum.woff') format('woff'),
+       url('../font/NanumHarABeoJiEuiNaNum/NanumHarABeoJiEuiNaNum.ttf') format('truetype');
+}
+
+
+/* 기본 셋팅 */
+html{
+  margin: 0px;
+  padding: 0px;
+  text-size-adjust: none;
+  user-select: none;
+}
+
+/* 헤더 */
+.menu {
+  position: fixed;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-image: url('../img/bar.png');
+  filter: drop-shadow(4px 6px 2.6px rgba(0, 0, 0, 0.25));
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: 'SpecialElite-Regular', sans-serif;
+}
+
+/* 네비게이션 */
+.menu nav{
+  margin-top: 30px;
+  margin-right: 300px;
+  
+}
+
+.menu nav span{
+  font-size: 13px;
+  margin-right: 20px;
+}
+
+/* 로고 */
+.menu #logo{
+  width: 10%;
+  height: auto;
+  padding-top: 13px;
+  margin-left: 300px;
+  filter: drop-shadow(4px 6px 2.6px rgba(0, 0, 0, 0.25)); 
+}
+
+/* 본문 */
+body{
+  background-image: url('../img/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* 
+메인 -> main.css
+
+스토리 -> story.css
+*/

@@ -1,0 +1,115 @@
+.story{
+  font-size: 12px;
+  line-height: 18px;
+  font-family: 'Noto Serif KR', serif;
+}
+
+.story #story1{
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 335px;
+  transform: rotate(-9.17deg);
+  font-size: 18px;
+  font-family: 'SpecialElite-Regular';
+}
+
+.story #story2{
+  position: absolute;
+  margin-top: 248px;
+  margin-left: 350px;
+  transform: rotate(-9.17deg);
+  font-size: 16px;
+  font-family: 'Nanum HarABeoJiEuiNaNum';
+}
+
+.story #storyline1{
+  position: absolute;
+}
+
+.story #story3{
+  text-align: right;
+  margin-top: 315px;
+  margin-left: 335px;
+}
+
+.story #story4{
+  text-align: right;
+  margin-top: 20px;
+  margin-left: 335px;
+}
+
+.story #story5{
+  margin-top: 525px;
+  margin-left: 860px;
+  font-size: 16px;
+  font-family: 'Nanum HarABeoJiEuiNaNum';
+}
+
+.story #story6{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 680px;
+}
+
+.story #story7{
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 730px;
+}
+
+.story #story8{
+  position: absolute;
+  margin-top: 265px;
+  margin-left: 485px;
+  font-size: 16px;
+  font-family: 'Nanum HarABeoJiEuiNaNum';
+}
+
+.story #story9{
+  position: absolute;
+  margin-top: 325px;
+  margin-left: 310px;
+}
+
+.story #story10{
+  position: absolute;
+  text-align: right;
+  margin-top: 380px;
+  margin-left: 375px;
+}
+
+.story #story11{
+  position: absolute;
+  margin-top: 470px;
+  margin-left: 430px;
+}
+
+.story #story12{
+  position: absolute;
+  margin-top: 525px;
+  margin-left: 420px;
+}
+
+.story #story13{
+  position: absolute;
+  margin-top: 700px;
+  margin-left: 970px;
+  font-size: 18px;
+  font-family: 'SpecialElite-Regular';
+}
+
+.story #story14{
+  position: absolute;
+  margin-top: 722px;
+  margin-left: 968px;
+}
+
+.story #clock{
+  position: absolute;
+  margin-top: 700px;
+  margin-left: 200px;
+  width: 12%;
+  height: auto;
+  transform: rotate(-42.21deg);
+  filter: drop-shadow(2px 8px 4px rgba(0, 0, 0, 0.40));
+}

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'PlayfairDisplaySC-Bold';
+  src: url('/path-to/PlayfairDisplaySC-Bold.woff2') format('woff2'),
+       url('/path-to/PlayfairDisplaySC-Bold.woff') format('woff'),
+       url('/path-to/PlayfairDisplaySC-Bold.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'PlayfairDisplaySC-Bold', sans-serif;
+}

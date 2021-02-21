@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'SpecialElite-Regular';
+  src: url('/path-to/SpecialElite-Regular.woff2') format('woff2'),
+       url('/path-to/SpecialElite-Regular.woff') format('woff'),
+       url('/path-to/SpecialElite-Regular.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'SpecialElite-Regular', sans-serif;
+}

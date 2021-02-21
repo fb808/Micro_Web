@@ -1,0 +1,59 @@
+.main #mainimg{
+  position: relative;
+  top: 155px;
+  left: 360px;
+  width: 46%;
+  height: auto;
+  filter: drop-shadow(4px 6px 2.6px rgba(0, 0, 0, 0.25)); 
+}
+
+.main #tape{
+  position: absolute;
+  top: 140px;
+  left: 660px;
+  width: auto;
+  height: 90px;
+  opacity: 0.7;
+}
+
+.main #nametag1{
+  position: absolute;
+  top: 405px;
+  left: 300px;
+  width: 23%;
+  height: auto;
+}
+
+.main #nametag2{
+  position: absolute;
+  top: 325px;
+  left: 960px;
+  width: 17%;
+  height: auto;
+}
+
+.main #letter{
+  position: absolute;
+  top: 380px;
+  left: 890px;
+  width: 30%;
+  height: auto;
+  filter: drop-shadow(0px 3px 4.95px rgba(0, 0, 0, 0.38)); 
+}
+
+.main #title{
+  position: absolute;
+  top: 670px;
+  left: 605px;
+  margin-right: auto;
+  font-size: 48px;
+  font-family: 'FrederickatheGreat-Regular';
+}
+
+.main #subtitle{
+  position: absolute;
+  top: 735px;
+  left: 667px;
+  font-size: 18px;
+  font-family: 'SpecialElite-Regular';
+}

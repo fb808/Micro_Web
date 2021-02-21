@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Nanum HarABeoJiEuiNaNum';
+    src: url('NanumHarABeoJiEuiNaNum.woff2') format('woff2'),
+        url('NanumHarABeoJiEuiNaNum.woff') format('woff'),
+        url('NanumHarABeoJiEuiNaNum.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'DancingScript-VariableFont_wght';
+  src: url('/path-to/DancingScript-VariableFont_wght.woff2') format('woff2'),
+       url('/path-to/DancingScript-VariableFont_wght.woff') format('woff'),
+       url('/path-to/DancingScript-VariableFont_wght.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'DancingScript-VariableFont_wght', sans-serif;
+}
