@@ -73,7 +73,12 @@ body{
   background-image: url('../img/background.png');
   background-repeat: no-repeat;
   background-size: cover;
-}
+} 
+/*
+ body #background{
+  position: relative;
+ }
+*/
 
 /* 
 메인 -> main.css
